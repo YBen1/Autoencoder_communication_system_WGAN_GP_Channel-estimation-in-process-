@@ -1,5 +1,5 @@
 # WGAN_Channel_Estimation-in-process-
-Wasserstein GAN for Channel Estimation in an Autoencoder Communication System
+Wasserstein GAN with Gradient Penalty for Channel Estimation in an Autoencoder Communication System
 
 Baised on:
 "Wasserstein GAN"- Martin Arjovsky1, Soumith Chintala2, and L ́eon Bottou1,2
